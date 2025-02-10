@@ -6,7 +6,7 @@ Dataset
 
 Download the GloVe embeddings from the following link:
 
-￼
+￼	https://www.kaggle.com/datasets/danielwillgeorge/glove6b100dtxt?utm_source=chatgpt.com
 
 Setup Instructions
 	1.	Activate Virtual Environment:
