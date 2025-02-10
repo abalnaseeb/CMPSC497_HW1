@@ -1,4 +1,5 @@
 CMPSC 497 - Homework 1
+Ali AlNaseeb
 
 Objective: Train a Logistic Regression or Support Vector Machine (SVM) classifier on word embeddings for a Part-of-Speech (POS) tagging task to achieve reasonable performance.
 
