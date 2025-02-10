@@ -12,17 +12,15 @@ Setup Instructions
 	1.	Activate Virtual Environment:
 Ensure you’re working within your Python virtual environment:
 
-source .venv/bin/activate
+	source .venv/bin/activate
 
 
-	2.	Install Required Packages:
 Install the necessary Python packages using pip:
 
-pip install numpy nltk pandas scikit-learn datasets
+	pip install numpy nltk pandas scikit-learn datasets
 
 Note: Ensure that your Python version is compatible with the latest versions of these packages. For instance, scikit-learn requires Python 3.9 or newer.  ￼
 
-	3.	Download GloVe Embeddings:
 After downloading the glove.6B.100d.txt file from the provided link, place it in your project directory.
 
 Implementation
